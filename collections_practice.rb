@@ -26,4 +26,10 @@ def swap_elements(array)
   
 end
 
-def 
+def reverse_array(array)
+  
+end 
+
+def find_a(array)
+  
+end
